@@ -1,3 +1,5 @@
+![LinkedIN Banner](https://user-images.githubusercontent.com/116613246/228123028-6ae03f17-5fb9-4f7b-94b5-53b1519a2c3a.jpg)
+
 ### Hello, I'm Joseph Lee 👋
 
 - 🌱 Currently learning ... TypeScript, Data Structures & Algorithms, Three.js, Python, Angular, Unit Testing
