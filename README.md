@@ -16,5 +16,5 @@ Hello! My name is Joseph Lee, and I am a full-stack web developer. I have shifte
 ### 📁 My Projects!
 - [be-tab-d](https://github.com/leejaejoseph/be-tab-d)
 - [esports-viewer](https://github.com/leejaejoseph/esports-viewer)
-- [Portfolio](https://github.com/leejaejoseph/Portfolio-Page))
+- [Portfolio](https://github.com/leejaejoseph/Portfolio-Page)
 
