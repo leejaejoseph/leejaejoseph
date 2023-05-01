@@ -11,9 +11,10 @@ Hello! My name is Joseph Lee, and I am a full-stack web developer. I have shifte
 
 ### 🧩 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/leejaejoseph/)
-- [Portfolio](https://github.com/leejaejoseph)
 - [Email](mailto:Leejaejoseph@gmail.com)
 
 ### 📁 My Projects!
 - [be-tab-d](https://github.com/leejaejoseph/be-tab-d)
 - [esports-viewer](https://github.com/leejaejoseph/esports-viewer)
+- [Portfolio](https://github.com/leejaejoseph/Portfolio-Page))
+
