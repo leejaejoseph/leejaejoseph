@@ -3,7 +3,7 @@
 ### Hello, I'm Joseph Lee 👋
 
 - 🌱 Currently learning ... Data Structures & Algorithms, Python, Angular, Unit Testing
-- 📚 Stack - React, JavaScript ES6, CSS3, HTML5, Node.js, Express
+- 📚 Stack - React, JavaScript ES6, CSS3, HTML5, Node.js, Express, Three.js, TypeScript
 - 🛠️ Tools - TailwindCSS, npm, PostgreSQL, Webpack, Git, GitHub, Flexbox, AJAX, HTTPie
 
 ### 📜 About Me
